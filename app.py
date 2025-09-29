@@ -14,11 +14,9 @@ def bienvenida():
     <h2>para numero minimo teclear presiona o escribe en el navegador 127.0.0.1:5000/max/10/20</h2>
     <h2>para calcular el factorial teclear presiona o escribe en el navegador 127.0.0.1:500/factorial/10/20<h2>
     <h2>NOTA: cambiar los numeros 10 y 20 por los que se quieran calcular<h2>
-    <footer>
     <p>Creado por: Vazquez Ortiz Wendy Judith</p>
     <p>Fecha: 20 de junio del 2024</p>
     <p>Version: 1.0</p>
-    </footer>
     '''
     return mensaje1
 
