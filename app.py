@@ -56,7 +56,6 @@ def factorial(v1):
         fact*=x
     return f"el factorial de {v1} es {fact}"
 
-
 if __name__ == '__main__':
     app.run(debug=True)
     
